@@ -7,10 +7,10 @@ ___
 	$ cd subbrute
 	$ cat words | ./subbrute "domain"
 ## Example:
-\$ cat words.txt
-www
-accounts
-mail
-ns2
+	$ cat words.txt
+	www
+	accounts
+	mail
+	ns2
 
-\$ cat words.txt | ./subbrute "example.com"
+	$ cat words.txt | ./subbrute "example.com"
